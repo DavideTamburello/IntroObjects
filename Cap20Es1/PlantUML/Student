@@ -1,0 +1,12 @@
+@startuml
+class Student {
+    - numeroRegistro : int
+    - studentClass : StudentClass?
+    + NumeroRegistro : int <<get>> <<set>>
+    + Student(nomeStudente:string, numeroRegistro:int, classe:StudentClass?)
+    + Student(nomeStudente:string)
+    + <<override>> ToString() : string
+}
+People <|-- Student
+Student --> "StudentClass" StudentClass
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+class Teacher {
+    - courses : Course[]?
+    + Courses : Course[]? <<get>> <<set>>
+    + Teacher(name:string, courses:Course[]?)
+    + Teacher(name:string)
+    + <<override>> ToString() : string
+}
+People <|-- Teacher
+@enduml
