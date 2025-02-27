@@ -1,0 +1,50 @@
+@startuml
+class Course {
+    - name : string
+    - countOfClasses : int
+    - countOfExercises : int
+    + Course(name:string, countOfClasses:int, countOfExercises:int)
+    + Course(name:string)
+    + Course()
+    + Name : string <<get>> <<set>>
+    + CountOfClasses : int <<get>> <<set>>
+    + CountOfExercises : int <<get>> <<set>>
+    + <<override>> ToString() : string
+}
+class People {
+    - name : string
+    + People(name:string)
+    + People()
+    + Name : string <<get>> <<set>>
+    + <<override>> ToString() : string
+}
+class Program {
+    - {static} Main(args:string[]) : void
+}
+class Student {
+    - numeroRegistro : int
+    - studentClass : StudentClass?
+    + NumeroRegistro : int <<get>> <<set>>
+    + Student(nomeStudente:string, numeroRegistro:int, classe:StudentClass?)
+    + Student(nomeStudente:string)
+    + <<override>> ToString() : string
+}
+People <|-- Student
+Student --> "StudentClass" StudentClass
+class StudentClass {
+    - className : string
+    - classTeachers : Teacher[]?
+    + ClassName : string <<get>> <<set>>
+    + StudentClass(className:string, classTeachers:Teacher[]?)
+    + StudentClass(className:string)
+    + <<override>> ToString() : string
+}
+class Teacher {
+    - courses : Course[]?
+    + Courses : Course[]? <<get>> <<set>>
+    + Teacher(name:string, courses:Course[]?)
+    + Teacher(name:string)
+    + <<override>> ToString() : string
+}
+People <|-- Teacher
+@enduml

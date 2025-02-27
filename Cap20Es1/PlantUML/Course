@@ -1,0 +1,14 @@
+@startuml
+class Course {
+    - name : string
+    - countOfClasses : int
+    - countOfExercises : int
+    + Course(name:string, countOfClasses:int, countOfExercises:int)
+    + Course(name:string)
+    + Course()
+    + Name : string <<get>> <<set>>
+    + CountOfClasses : int <<get>> <<set>>
+    + CountOfExercises : int <<get>> <<set>>
+    + <<override>> ToString() : string
+}
+@enduml

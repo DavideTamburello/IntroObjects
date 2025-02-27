@@ -1,0 +1,9 @@
+@startuml
+class People {
+    - name : string
+    + People(name:string)
+    + People()
+    + Name : string <<get>> <<set>>
+    + <<override>> ToString() : string
+}
+@enduml
