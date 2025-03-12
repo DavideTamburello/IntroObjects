@@ -27,7 +27,7 @@ namespace _11_03_2025
         //due box sono uguali se hanno le stesse dimensioni
         //other = l'altra box
         //return = true se le due box hanno le stesse dimensioni
-        public bool Equals(Box? other)
+        public bool  (Box? other)
         {
             if(other is null)
             {
