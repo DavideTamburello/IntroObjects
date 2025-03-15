@@ -1,0 +1,15 @@
+C:\Users\iperd\Documents\GitHub\IntroObjects\I\bin\Debug\net8.0\I.exe
+C:\Users\iperd\Documents\GitHub\IntroObjects\I\bin\Debug\net8.0\I.deps.json
+C:\Users\iperd\Documents\GitHub\IntroObjects\I\bin\Debug\net8.0\I.runtimeconfig.json
+C:\Users\iperd\Documents\GitHub\IntroObjects\I\bin\Debug\net8.0\I.dll
+C:\Users\iperd\Documents\GitHub\IntroObjects\I\bin\Debug\net8.0\I.pdb
+C:\Users\iperd\Documents\GitHub\IntroObjects\I\obj\Debug\net8.0\I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iperd\Documents\GitHub\IntroObjects\I\obj\Debug\net8.0\I.AssemblyInfoInputs.cache
+C:\Users\iperd\Documents\GitHub\IntroObjects\I\obj\Debug\net8.0\I.AssemblyInfo.cs
+C:\Users\iperd\Documents\GitHub\IntroObjects\I\obj\Debug\net8.0\I.csproj.CoreCompileInputs.cache
+C:\Users\iperd\Documents\GitHub\IntroObjects\I\obj\Debug\net8.0\I.sourcelink.json
+C:\Users\iperd\Documents\GitHub\IntroObjects\I\obj\Debug\net8.0\I.dll
+C:\Users\iperd\Documents\GitHub\IntroObjects\I\obj\Debug\net8.0\refint\I.dll
+C:\Users\iperd\Documents\GitHub\IntroObjects\I\obj\Debug\net8.0\I.pdb
+C:\Users\iperd\Documents\GitHub\IntroObjects\I\obj\Debug\net8.0\I.genruntimeconfig.cache
+C:\Users\iperd\Documents\GitHub\IntroObjects\I\obj\Debug\net8.0\ref\I.dll

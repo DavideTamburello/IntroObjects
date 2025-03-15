@@ -35,14 +35,14 @@ public class Box:IEquatable<Box>, IComparable<Box>
     /// <param name="other">L'altra Box</param>
     /// <returns>true se le due Box hanno le stesse dimensioni</returns>
     /// <exception cref="NotImplementedException"></exception>
-    // public bool Equals(Box? other)
-    // {
-    //     if (other is null)
-    //     {
-    //         return false;
-    //     }
-    //     return larghezza==other.larghezza && profondità ==other.profondità && altezza ==other.altezza;
-    // }
+    public bool Equals(Box? other)
+    {
+        if (other is null)
+        {
+            return false;
+        }
+        return larghezza==other.larghezza && profondità ==other.profondità && altezza ==other.altezza;
+    }
 
     public override bool Equals(object? obj)
     {
