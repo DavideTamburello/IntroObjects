@@ -1,6 +1,7 @@
 ﻿using System.Security.Authentication;
 using EsInterfacce;
 
+
 internal class Program
 {
     private static void Main(string[] args)
@@ -14,8 +15,16 @@ internal class Program
         List<Persona> persone = [persona1, persona2, persona3, persona4, persona5];
 
         persone.Sort();
-        System.Console.WriteLine(persone);
+        StampaPersone(persone); 
 
         
+    }
+    public static void StampaPersone(List<Persona> persone)
+    {   
+        foreach (var persona in persone)
+        {
+            Console.WriteLine(persona);
+        }
+        Console.WriteLine();
     }
 }

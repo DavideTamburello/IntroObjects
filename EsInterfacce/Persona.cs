@@ -122,4 +122,7 @@ public class Persona : IEquatable<Persona>, IComparable<Persona>
     {
         return right <= left;
     }
+
+
+    
 }
