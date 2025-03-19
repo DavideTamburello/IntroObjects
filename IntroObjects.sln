@@ -29,6 +29,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "18_03_2025", "18_03_2025", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18_03_2025", "18_03_2025\18_03_2025\18_03_2025.csproj", "{C032EF14-8825-488F-B8CC-2EBAB4CF621F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EsInterfacce", "EsInterfacce\EsInterfacce.csproj", "{092F1661-74BB-4B7A-8B0E-8E36691F1B74}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -83,6 +85,10 @@ Global
 		{C032EF14-8825-488F-B8CC-2EBAB4CF621F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C032EF14-8825-488F-B8CC-2EBAB4CF621F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C032EF14-8825-488F-B8CC-2EBAB4CF621F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{092F1661-74BB-4B7A-8B0E-8E36691F1B74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{092F1661-74BB-4B7A-8B0E-8E36691F1B74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{092F1661-74BB-4B7A-8B0E-8E36691F1B74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{092F1661-74BB-4B7A-8B0E-8E36691F1B74}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

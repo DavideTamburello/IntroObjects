@@ -1,0 +1,15 @@
+C:\Users\iperd\Documents\GitHub\IntroObjects\EsInterfacce\bin\Debug\net8.0\EsInterfacce.exe
+C:\Users\iperd\Documents\GitHub\IntroObjects\EsInterfacce\bin\Debug\net8.0\EsInterfacce.deps.json
+C:\Users\iperd\Documents\GitHub\IntroObjects\EsInterfacce\bin\Debug\net8.0\EsInterfacce.runtimeconfig.json
+C:\Users\iperd\Documents\GitHub\IntroObjects\EsInterfacce\bin\Debug\net8.0\EsInterfacce.dll
+C:\Users\iperd\Documents\GitHub\IntroObjects\EsInterfacce\bin\Debug\net8.0\EsInterfacce.pdb
+C:\Users\iperd\Documents\GitHub\IntroObjects\EsInterfacce\obj\Debug\net8.0\EsInterfacce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iperd\Documents\GitHub\IntroObjects\EsInterfacce\obj\Debug\net8.0\EsInterfacce.AssemblyInfoInputs.cache
+C:\Users\iperd\Documents\GitHub\IntroObjects\EsInterfacce\obj\Debug\net8.0\EsInterfacce.AssemblyInfo.cs
+C:\Users\iperd\Documents\GitHub\IntroObjects\EsInterfacce\obj\Debug\net8.0\EsInterfacce.csproj.CoreCompileInputs.cache
+C:\Users\iperd\Documents\GitHub\IntroObjects\EsInterfacce\obj\Debug\net8.0\EsInterfacce.sourcelink.json
+C:\Users\iperd\Documents\GitHub\IntroObjects\EsInterfacce\obj\Debug\net8.0\EsInterfacce.dll
+C:\Users\iperd\Documents\GitHub\IntroObjects\EsInterfacce\obj\Debug\net8.0\refint\EsInterfacce.dll
+C:\Users\iperd\Documents\GitHub\IntroObjects\EsInterfacce\obj\Debug\net8.0\EsInterfacce.pdb
+C:\Users\iperd\Documents\GitHub\IntroObjects\EsInterfacce\obj\Debug\net8.0\EsInterfacce.genruntimeconfig.cache
+C:\Users\iperd\Documents\GitHub\IntroObjects\EsInterfacce\obj\Debug\net8.0\ref\EsInterfacce.dll

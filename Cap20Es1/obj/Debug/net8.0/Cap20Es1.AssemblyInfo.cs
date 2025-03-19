@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cap20Es1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b95b77b4f41b04148dd40d8af635fd2b745c1c81")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54de0b25b8a077795e9103b5b7d7df20b5a9f94f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cap20Es1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cap20Es1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
