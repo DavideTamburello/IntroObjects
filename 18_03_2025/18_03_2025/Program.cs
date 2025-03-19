@@ -6,36 +6,36 @@ internal class Program
     private static void Main(string[] args)
     {
 
-        Temperature t1 = new Temperature(20);
-        Temperature t2 = new Temperature(20);
-        Temperature t3 = t1;//t3 punta allo stesso oggetto puntato da t1
-        //tutti gli oggetti ereditano Equals di Object che considera uguali
-        //due oggetti se e solo se sono lo stesso oggetto in memoria
-        if (t1.Equals(t2))
-        {
-            Console.WriteLine("I due oggetti sono uguali");
-        }
-        else
-        {
-            Console.WriteLine("I due oggetti sono distinti");
-        }
-        if (t1 == t2)
-        {
-            Console.WriteLine("I due oggetti sono uguali - versione con ==");
-        }
-        else
-        {
-            Console.WriteLine("I due oggetti sono distinti - versione con ==");
-        }
+        // Temperature t1 = new Temperature(20);
+        // Temperature t2 = new Temperature(20);
+        // Temperature t3 = t1;//t3 punta allo stesso oggetto puntato da t1
+        // //tutti gli oggetti ereditano Equals di Object che considera uguali
+        // //due oggetti se e solo se sono lo stesso oggetto in memoria
+        // if (t1.Equals(t2))
+        // {
+        //     Console.WriteLine("I due oggetti sono uguali");
+        // }
+        // else
+        // {
+        //     Console.WriteLine("I due oggetti sono distinti");
+        // }
+        // if (t1 == t2)
+        // {
+        //     Console.WriteLine("I due oggetti sono uguali - versione con ==");
+        // }
+        // else
+        // {
+        //     Console.WriteLine("I due oggetti sono distinti - versione con ==");
+        // }
 
-        if (t1 == t3)
-        {
-            Console.WriteLine("I due oggetti t1 e t3 sono uguali - versione con ==");
-        }
-        else
-        {
-            Console.WriteLine("I due oggetti t1 e t3 sono distinti - versione con ==");
-        }
+        // if (t1 == t3)
+        // {
+        //     Console.WriteLine("I due oggetti t1 e t3 sono uguali - versione con ==");
+        // }
+        // else
+        // {
+        //     Console.WriteLine("I due oggetti t1 e t3 sono distinti - versione con ==");
+        // }
 
         //testing di Box 
         Box b1 = new Box(2, 3, 4);

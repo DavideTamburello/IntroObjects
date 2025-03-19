@@ -8,24 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\DAVIDETAMBURELLO3IA_\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\iperd\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DAVIDETAMBURELLO3IA_\\source\\repos\\18_03_2025\\18_03_2025\\18_03_2025.csproj",
+      "projectUniqueName": "C:\\Users\\iperd\\Documents\\GitHub\\IntroObjects\\18_03_2025\\18_03_2025\\18_03_2025.csproj",
       "projectName": "18_03_2025",
-      "projectPath": "C:\\Users\\DAVIDETAMBURELLO3IA_\\source\\repos\\18_03_2025\\18_03_2025\\18_03_2025.csproj",
-      "packagesPath": "C:\\Users\\DAVIDETAMBURELLO3IA_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DAVIDETAMBURELLO3IA_\\source\\repos\\18_03_2025\\18_03_2025\\obj\\",
+      "projectPath": "C:\\Users\\iperd\\Documents\\GitHub\\IntroObjects\\18_03_2025\\18_03_2025\\18_03_2025.csproj",
+      "packagesPath": "C:\\Users\\iperd\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\iperd\\Documents\\GitHub\\IntroObjects\\18_03_2025\\18_03_2025\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\DAVIDETAMBURELLO3IA_\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\iperd\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -33,7 +28,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -72,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
