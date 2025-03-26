@@ -33,6 +33,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EsInterfacce", "EsInterfacc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerCareBot", "CustomerCareBot\CustomerCareBot.csproj", "{24FE8881-8569-4993-8005-367F33130EBD}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Biblioteca", "Biblioteca", "{0EAEE99C-2411-428B-B5DE-13FC8EDEC4B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26_03_2025", "26_03_2025\26_03_2025\26_03_2025.csproj", "{588E9B8E-CF05-418F-9911-ECC7EB03154D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -95,11 +99,16 @@ Global
 		{24FE8881-8569-4993-8005-367F33130EBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24FE8881-8569-4993-8005-367F33130EBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24FE8881-8569-4993-8005-367F33130EBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{588E9B8E-CF05-418F-9911-ECC7EB03154D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{588E9B8E-CF05-418F-9911-ECC7EB03154D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{588E9B8E-CF05-418F-9911-ECC7EB03154D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{588E9B8E-CF05-418F-9911-ECC7EB03154D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{C032EF14-8825-488F-B8CC-2EBAB4CF621F} = {F9D03BD5-4113-4FFE-9B4C-41548DF3E71A}
+		{588E9B8E-CF05-418F-9911-ECC7EB03154D} = {0EAEE99C-2411-428B-B5DE-13FC8EDEC4B5}
 	EndGlobalSection
 EndGlobal

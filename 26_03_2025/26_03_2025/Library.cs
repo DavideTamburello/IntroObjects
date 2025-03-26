@@ -4,7 +4,10 @@ namespace _26_03_2025;
 public class Library : IEnumerable<Book>
 {
     private List<Book> books = new List<Book>();
+    Dictionary<string, Book> dictionary = new Dictionary<string, Book>();    
+    HashSet<string> autori = ["autore1", "peppino", "autore3"];
 
+    
     public void AddBook(Book book)
     {
         books.Add(book);
@@ -31,6 +34,16 @@ public class Library : IEnumerable<Book>
         foreach (var book in books)
         {
             if (book.Author.ToLower() == author.ToLower())
+            {
+                yield return book;
+            }
+        }
+    }
+    public IEnumerable<Book> GetBooksByISBN(string isbn)
+    {
+        foreach (var book in books)
+        {
+            if (book.ISBN.ToLower() == isbn.ToLower())
             {
                 yield return book;
             }
