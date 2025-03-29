@@ -1,0 +1,5 @@
+C:\Users\iperd\Documents\GitHub\IntroObjects\Rubrica\obj\Debug\net8.0\Rubrica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iperd\Documents\GitHub\IntroObjects\Rubrica\obj\Debug\net8.0\Rubrica.AssemblyInfoInputs.cache
+C:\Users\iperd\Documents\GitHub\IntroObjects\Rubrica\obj\Debug\net8.0\Rubrica.AssemblyInfo.cs
+C:\Users\iperd\Documents\GitHub\IntroObjects\Rubrica\obj\Debug\net8.0\Rubrica.csproj.CoreCompileInputs.cache
+C:\Users\iperd\Documents\GitHub\IntroObjects\Rubrica\obj\Debug\net8.0\Rubrica.sourcelink.json
