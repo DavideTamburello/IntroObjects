@@ -54,7 +54,12 @@ internal class Program
             Console.WriteLine(studente);
         }
     }
+    public void A()
+    {
+        
+    }   
 }
+
 //private static List<Studente> NewMethod(string filePath)
 //{
 
