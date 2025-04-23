@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pag851_Es5")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2713bbb4a55e241353befd5ee6615504551662ad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5dcf94a4d91c63eb5bcf2524b2eb72a4ad8aeaf")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pag851_Es5")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pag851_Es5")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

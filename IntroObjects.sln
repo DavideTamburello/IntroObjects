@@ -46,8 +46,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10_04_2025", "10_04_2025", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_04_2025", "10_04_2025\10_04_2025\10_04_2025.csproj", "{6DEE9960-35A5-4FD7-AFC9-D8B0EADD0372}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CompitiPasqua", "CompitiPasqua", "{4F0DB10C-FA93-4BBC-060C-EE886F3BBF6A}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
