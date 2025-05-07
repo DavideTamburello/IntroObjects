@@ -1,0 +1,14 @@
+C:\Users\DAVIDETAMBURELLO3IA_\source\repos\07_05_2025\07_05_2025\bin\Debug\net8.0\07_05_2025.exe
+C:\Users\DAVIDETAMBURELLO3IA_\source\repos\07_05_2025\07_05_2025\bin\Debug\net8.0\07_05_2025.deps.json
+C:\Users\DAVIDETAMBURELLO3IA_\source\repos\07_05_2025\07_05_2025\bin\Debug\net8.0\07_05_2025.runtimeconfig.json
+C:\Users\DAVIDETAMBURELLO3IA_\source\repos\07_05_2025\07_05_2025\bin\Debug\net8.0\07_05_2025.dll
+C:\Users\DAVIDETAMBURELLO3IA_\source\repos\07_05_2025\07_05_2025\bin\Debug\net8.0\07_05_2025.pdb
+C:\Users\DAVIDETAMBURELLO3IA_\source\repos\07_05_2025\07_05_2025\obj\Debug\net8.0\07_05_2025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAVIDETAMBURELLO3IA_\source\repos\07_05_2025\07_05_2025\obj\Debug\net8.0\07_05_2025.AssemblyInfoInputs.cache
+C:\Users\DAVIDETAMBURELLO3IA_\source\repos\07_05_2025\07_05_2025\obj\Debug\net8.0\07_05_2025.AssemblyInfo.cs
+C:\Users\DAVIDETAMBURELLO3IA_\source\repos\07_05_2025\07_05_2025\obj\Debug\net8.0\07_05_2025.csproj.CoreCompileInputs.cache
+C:\Users\DAVIDETAMBURELLO3IA_\source\repos\07_05_2025\07_05_2025\obj\Debug\net8.0\07_05_2025.dll
+C:\Users\DAVIDETAMBURELLO3IA_\source\repos\07_05_2025\07_05_2025\obj\Debug\net8.0\refint\07_05_2025.dll
+C:\Users\DAVIDETAMBURELLO3IA_\source\repos\07_05_2025\07_05_2025\obj\Debug\net8.0\07_05_2025.pdb
+C:\Users\DAVIDETAMBURELLO3IA_\source\repos\07_05_2025\07_05_2025\obj\Debug\net8.0\07_05_2025.genruntimeconfig.cache
+C:\Users\DAVIDETAMBURELLO3IA_\source\repos\07_05_2025\07_05_2025\obj\Debug\net8.0\ref\07_05_2025.dll
